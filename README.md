@@ -1,3 +1,59 @@
+# Trip Planner
+
+## About the Project
+
+Trip Planner is a mobile application developed using **React Native and Expo** to help users plan and manage their trips easily.
+
+## Technologies Used
+
+- React Native
+- Expo
+- JavaScript
+- Node.js
+- npm
+
+## Project Features
+
+- Create and manage trips
+- View trip details
+- Explore locations
+- Simple and user-friendly interface
+- Android support
+
+## Setup Instructions
+
+### Install Dependencies
+
+```bash
+npm install
+```
+
+### Start the Application
+
+```bash
+npx expo start
+```
+
+### Android Build
+
+```bash
+eas build --platform android --profile preview
+```
+
+## Android Application ID
+
+`com.jimsygeo.trip_planner`
+
+## Author
+
+**Jimsy George**
+
+---
+
+
+
+
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
